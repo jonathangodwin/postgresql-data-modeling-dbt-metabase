@@ -13,11 +13,17 @@ Ce projet présente la construction d'un pipeline analytique complet autour de l
 ## 📁 Structure du projet
 
 ├── data/ # Données sources (CSV)
+
 ├── dbt_project/ # Projet dbt avec modèles et tests
+
 ├── diagrams/ # Schéma du modèle relationnel (ERD)
+
 ├── metabase/ # Dashboards & visuels
+
 ├── snowflake/ # Scripts Snowflake (optionnel)
+
 ├── sql/ # SQL brut : création, transformation, tests
+
 └── README.md # Ce fichier
 
 
